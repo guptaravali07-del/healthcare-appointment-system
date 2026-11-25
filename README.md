@@ -61,3 +61,6 @@ A functional desktop prototype for learning Java development. Appointment bookin
 ## License
 
 This project is licensed under the MIT License.
+
+<img width="1325" height="897" alt="image" src="https://github.com/user-attachments/assets/f56cbf47-bc0a-4e7c-9be0-fe4ac34b113a" />
+
